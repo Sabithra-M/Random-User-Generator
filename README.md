@@ -7,6 +7,17 @@ The application uses JavaScript asynchronous functions with async and await to h
 
 HTML | CSS | JavaScript | Async/Await | Random User API
 
+## Live Demo
+https://sabithra-m.github.io/Random-User-Generator/
+
+## Project Demo
+
+### Main Interface
+![Main Interface](main-interface.png)
+
+### Generated Random User
+![Generated User](generated-user.png)
+
 ## Features
 
 - Generate random user profiles instantly
