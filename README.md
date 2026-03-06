@@ -12,7 +12,7 @@ https://sabithra-m.github.io/Random-User-Generator/
 
 ## Project Demo
 
-### Main Interface
+### Main User Interface
 ![Main Interface](main-interface.png)
 
 ### Generated Random User
