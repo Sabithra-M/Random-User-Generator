@@ -48,4 +48,5 @@ Through this project I learned:
 ## Author
 
 Sabithra M
+
 Aspiring Frontend Developer
